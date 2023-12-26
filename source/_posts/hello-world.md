@@ -1,38 +1,19 @@
 ---
-title: Hello World
+title: 如何过的爽-夺回选择权
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+嗨，大家好！
 
-## Quick Start
+今天我想和你们聊一个很重要的话题：夺回选择权。你有没有过不得不加班，不得不做某事的经历呢？其实我们都有过，但是要记住，不管情况有多糟，我们都有权利夺回属于自己的选择权！
 
-### Create a new post
+首先，选择不仅是行为，更是态度。了解为什么你做出这个选择，是你成长和提升价值观的一部分。
 
-``` bash
-$ hexo new "My New Post"
-```
+其次，即使你觉得选项很差，也要知道生活的道路是充满可能性的。别被困在所谓的差劲选择中，而是努力发现其中的机会。
 
-More info: [Writing](https://hexo.io/docs/writing.html)
+如果我们将不得不，换成 我选择……因为我想要……是不是就舒服了点。
 
-### Run server
+最后，夺回选择权的甜点在于，即使结果不尽如人意，我们仍能感觉到舒适。因为这是我们拥有了决策的主动权，能够接受并成长于选择带来的一切。
 
-``` bash
-$ hexo server
-```
+所以，让我们努力夺回选择权吧，勇敢面对有限的选项，成为一个能够勇敢接受选择结果的独立个体。记得，你有权利做出你自己的选择！谢谢收看！
 
-More info: [Server](https://hexo.io/docs/server.html)
 
-### Generate static files
 
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
