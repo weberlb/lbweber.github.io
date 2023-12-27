@@ -35,6 +35,18 @@
         {{ partial('_partials/sidebar/site-overview.swig', {}, {cache: theme.cache.enable}) }}
 
         {{- next_inject('sidebar') }}
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9732633087877604"
+             crossorigin="anonymous"></script>
+        <!-- 侧边栏 -->
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-9732633087877604"
+             data-ad-slot="8623499973"
+             data-ad-format="auto"
+             data-full-width-responsive="true"></ins>
+        <script>
+             (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
       </div>
 
       {%- if theme.back2top.enable and theme.back2top.sidebar %}
