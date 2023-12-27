@@ -36,14 +36,14 @@
 
         {{- next_inject('sidebar') }}
       </div>
-
+      {{ partial('_custom/google-adsense_port.swig') }}
       {%- if theme.back2top.enable and theme.back2top.sidebar %}
         <div class="back-to-top motion-element">
           <i class="fa fa-arrow-up"></i>
           <span>0%</span>
         </div>
       {%- endif %}
-    {{ partial('_custom/google-adsense_port.swig') }}
+
     </div>
   </aside>
   <div id="sidebar-dimmer"></div>

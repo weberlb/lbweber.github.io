@@ -991,6 +991,12 @@ vendors:
   # canvas_ribbon: //cdn.jsdelivr.net/gh/theme-next/theme-next-canvas-ribbon@1/canvas-ribbon.js
   canvas_ribbon:
 
+# Google AdSense
+google_adsense:
+  enable: true
+  ## siderbar_enable 這邊建立廣告後才會用到
+  siderbar_enable: true # 是否開啟側邊欄廣告
+
 # Assets
 css: css
 js: js
