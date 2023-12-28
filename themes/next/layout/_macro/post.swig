@@ -16,7 +16,7 @@
 
     {%- if post.header !== false %}
       <header class="post-header">
-       {{ partial('_custom/google-adsense_port.swig') }}
+       {{ partial('_custom/google-adsense_land.swig') }}
         <{%- if is_index %}h2{% else %}h1{%- endif %} class="post-title{%- if post.direction and post.direction.toLowerCase() === 'rtl' %} rtl{%- endif %}" itemprop="name headline">
           {# Link posts #}
           {%- if post.link %}
