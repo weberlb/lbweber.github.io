@@ -1,19 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Android代码折叠问题</title>
-    <url>/2023/12/27/Android%E4%BB%A3%E7%A0%81%E6%8A%98%E5%8F%A0%E9%97%AE%E9%A2%98/</url>
-    <content><![CDATA[<p>当Android Studio aar或者jar包的class文件时，有时会出现 &#x2F;* compiled code *&#x2F;<br>因为Android Studio在初始化的时候会默认自带反编译插件，但是在有的因为安装大意，</p>
-<span id="more"></span>
-<p>在初始化的时候没有勾选上反编译插件，从而导致不能正常的反编译，<br>这时候看到的代码智能显示函数名称，函数体内部的实现显示的是&#x2F;compiled code&#x2F;。</p>
-<p>这个时候可以通过终重新勾选的方式来解决<br><strong>方法</strong><br>打开Android Studio，Android Studio-&gt;Settings-&gt;Plugins，<br>在installed的插件中搜索Java Bytecode Decompiler，勾选上后点击右下角的apply，然后再重启IDEA即可。</p>
-<p>小贴士:<br>禁用掉自己下载的编译插件<br>禁用掉Java Decompiler Intellij Plugin，重启Android Studio后反编译成功</p>
-]]></content>
-      <categories>
-        <category>技术文章</category>
-      </categories>
-  </entry>
-  <entry>
     <title>如何过的爽-夺回选择权</title>
     <url>/2023/12/25/hello-world/</url>
     <content><![CDATA[<p>嗨，大家好！</p>
@@ -27,6 +14,19 @@
 ]]></content>
       <categories>
         <category>自我发展</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>Android代码显示compiled code</title>
+    <url>/2023/12/27/Android%E4%BB%A3%E7%A0%81%E6%8A%98%E5%8F%A0%E9%97%AE%E9%A2%98/</url>
+    <content><![CDATA[<p>当Android Studio aar或者jar包的class文件时，有时会出现 &#x2F;* compiled code *&#x2F;<br>因为Android Studio在初始化的时候会默认自带反编译插件，但是在有的因为安装大意，</p>
+<span id="more"></span>
+<p>在初始化的时候没有勾选上反编译插件，从而导致不能正常的反编译，<br>这时候看到的代码智能显示函数名称，函数体内部的实现显示的是&#x2F;compiled code&#x2F;。</p>
+<p>这个时候可以通过终重新勾选的方式来解决<br><strong>方法</strong><br>打开Android Studio，Android Studio-&gt;Settings-&gt;Plugins，<br>在installed的插件中搜索Java Bytecode Decompiler，勾选上后点击右下角的apply，然后再重启IDEA即可。</p>
+<p>小贴士:<br>禁用掉自己下载的编译插件<br>禁用掉Java Decompiler Intellij Plugin，重启Android Studio后反编译成功</p>
+]]></content>
+      <categories>
+        <category>技术文章</category>
       </categories>
   </entry>
   <entry>
