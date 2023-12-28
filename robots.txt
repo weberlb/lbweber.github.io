@@ -1,0 +1,6 @@
+# hexo robots.txt
+User-agent: *
+Allow: /
+
+Sitemap: https://https://weberlb.github.io//sitemap.xml
+Sitemap: https://https://weberlb.github.io//baidusitemap.xml
