@@ -97,7 +97,10 @@ ignore:
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: next
-
+sitemap:
+  path: sitemap.xml
+baidusitemap:
+  path: baidusitemap.xml
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:

@@ -1,0 +1,82 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="JdAndroidAbstractClassShouldStartWithAbstractNaming" enabled="false" level="WARNING " enabled_by_default="false" />
+    <inspection_tool class="JdAndroidAccessToNonThreadSafeStaticFieldFromInstance" enabled="false" level="CRITICAL " enabled_by_default="false" />
+    <inspection_tool class="JdAndroidArrayNamingShouldHaveBracket" enabled="false" level="WARNING " enabled_by_default="false" />
+    <inspection_tool class="JdAndroidAvoidCallStaticSimpleDateFormat" enabled="false" level="CRITICAL " enabled_by_default="false" />
+    <inspection_tool class="JdAndroidAvoidCommentBehindStatement" enabled="false" level="WARNING " enabled_by_default="false" />
+    <inspection_tool class="JdAndroidAvoidComplexCondition" enabled="false" level="MAJOR " enabled_by_default="false" />
+    <inspection_tool class="JdAndroidAvoidConcurrentCompetitionRandom" enabled="false" level="MAJOR " enabled_by_default="false" />
+    <inspection_tool class="JdAndroidAvoidDoubleOrFloatEqualCompare" enabled="false" level="CRITICAL " enabled_by_default="false" />
+    <inspection_tool class="JdAndroidAvoidManuallyCreateThread" enabled="false" level="CRITICAL " enabled_by_default="false" />
+    <inspection_tool class="JdAndroidAvoidMissUseOfMathRandom" enabled="false" level="CRITICAL " enabled_by_default="false" />
+    <inspection_tool class="JdAndroidAvoidNewDateGetTime" enabled="false" level="CRITICAL " enabled_by_default="false" />
+    <inspection_tool class="JdAndroidAvoidPatternCompileInMethod" enabled="false" level="CRITICAL " enabled_by_default="false" />
+    <inspection_tool class="JdAndroidAvoidStartWithDollarAndUnderLineNaming" enabled="false" level="WARNING " enabled_by_default="false" />
+    <inspection_tool class="JdAndroidAvoidUseTimer" enabled="false" level="BLOCKER " enabled_by_default="false" />
+    <inspection_tool class="JdAndroidBigDecimalAvoidDoubleConstructor" enabled="false" level="MAJOR " enabled_by_default="false" />
+    <inspection_tool class="JdAndroidClassCast" enabled="false" level="CRITICAL " enabled_by_default="false" />
+    <inspection_tool class="JdAndroidClassCastExceptionWithSubListToArrayList" enabled="false" level="CRITICAL " enabled_by_default="false" />
+    <inspection_tool class="JdAndroidClassCastExceptionWithToArray" enabled="false" level="CRITICAL " enabled_by_default="false" />
+    <inspection_tool class="JdAndroidClassMustHaveAuthor" enabled="false" level="MAJOR " enabled_by_default="false" />
+    <inspection_tool class="JdAndroidClassNamingShouldBeCamel" enabled="false" level="WARNING " enabled_by_default="false" />
+    <inspection_tool class="JdAndroidCollectionInitShouldAssignCapacity" enabled="false" level="MAJOR " enabled_by_default="false" />
+    <inspection_tool class="JdAndroidConcurrentExceptionWithModifyOriginSubList" enabled="false" level="CRITICAL " enabled_by_default="false" />
+    <inspection_tool class="JdAndroidConstantFieldShouldBeUpperCase" enabled="false" level="WARNING " enabled_by_default="false" />
+    <inspection_tool class="JdAndroidCountDownShouldInFinally" enabled="false" level="CRITICAL " enabled_by_default="false" />
+    <inspection_tool class="JdAndroidDontModifyInForeachCircle" enabled="false" level="CRITICAL " enabled_by_default="false" />
+    <inspection_tool class="JdAndroidEnumConstantsMustHaveComment" enabled="false" level="CRITICAL " enabled_by_default="false" />
+    <inspection_tool class="JdAndroidEqualsAvoidNull" enabled="false" level="CRITICAL " enabled_by_default="false" />
+    <inspection_tool class="JdAndroidExceptionClassShouldEndWithException" enabled="false" level="WARNING " enabled_by_default="false" />
+    <inspection_tool class="JdAndroidLockShouldWithTryFinally" enabled="false" level="BLOCKER " enabled_by_default="false" />
+    <inspection_tool class="JdAndroidLowerCamelCaseVariableNaming" enabled="false" level="WARNING " enabled_by_default="false" />
+    <inspection_tool class="JdAndroidMapOrSetKeyShouldOverrideHashCodeEquals" enabled="false" level="CRITICAL " enabled_by_default="false" />
+    <inspection_tool class="JdAndroidMethodAndFieldMastHaveComment" enabled="false" level="MAJOR " enabled_by_default="false" />
+    <inspection_tool class="JdAndroidMethodBodyCount" enabled="false" level="WARNING " enabled_by_default="false" />
+    <inspection_tool class="JdAndroidMethodParamsCount" enabled="false" level="WARNING " enabled_by_default="false" />
+    <inspection_tool class="JdAndroidMissingOverrideAnnotation" enabled="false" level="BLOCKER " enabled_by_default="false" />
+    <inspection_tool class="JdAndroidNeedBrace" enabled="false" level="CRITICAL " enabled_by_default="false" />
+    <inspection_tool class="JdAndroidPackageNaming" enabled="false" level="WARNING " enabled_by_default="false" />
+    <inspection_tool class="JdAndroidRemoveCommentedCode" enabled="false" level="WARNING " enabled_by_default="false" />
+    <inspection_tool class="JdAndroidServiceOrDaoClassShouldEndWithImpl" enabled="false" level="WARNING " enabled_by_default="false" />
+    <inspection_tool class="JdAndroidStringConcat" enabled="false" level="MAJOR " enabled_by_default="false" />
+    <inspection_tool class="JdAndroidSwitchStatement" enabled="false" level="CRITICAL " enabled_by_default="false" />
+    <inspection_tool class="JdAndroidSwitchStatementString" enabled="false" level="CRITICAL " enabled_by_default="false" />
+    <inspection_tool class="JdAndroidTestClassShouldEndWithTestNaming" enabled="false" level="WARNING " enabled_by_default="false" />
+    <inspection_tool class="JdAndroidThreadLocalShouldRemove" enabled="false" level="CRITICAL " enabled_by_default="false" />
+    <inspection_tool class="JdAndroidThreadPoolCreation" enabled="false" level="BLOCKER " enabled_by_default="false" />
+    <inspection_tool class="JdAndroidTransactionMustHaveRollback" enabled="false" level="CRITICAL " enabled_by_default="false" />
+    <inspection_tool class="JdAndroidUndefineMagicConstant" enabled="false" level="MAJOR " enabled_by_default="false" />
+    <inspection_tool class="JdAndroidUnsupportedExceptionWithModifyAsList" enabled="false" level="CRITICAL " enabled_by_default="false" />
+    <inspection_tool class="JdAndroidUpperEll" enabled="false" level="CRITICAL " enabled_by_default="false" />
+    <inspection_tool class="JdAndroidWrapperTypeEquality" enabled="false" level="CRITICAL " enabled_by_default="false" />
+    <inspection_tool class="JdCyclomaticComplexityBlock" enabled="false" level="BLOCKER (超高复杂度)" enabled_by_default="false" />
+    <inspection_tool class="JdCyclomaticComplexityCritical" enabled="false" level="CRITICAL (高复杂度)" enabled_by_default="false" />
+    <inspection_tool class="JdCyclomaticComplexityMajor" enabled="false" level="MAJOR (中复杂度)" enabled_by_default="false" />
+    <inspection_tool class="JdCyclomaticComplexityWarning" enabled="false" level="WARNING (低复杂度)" enabled_by_default="false" />
+    <inspection_tool class="JdJDAndroidSafeALIOSS" enabled="false" level="高危风险" enabled_by_default="false" />
+    <inspection_tool class="JdJDAndroidSafeAllowAllHoseName" enabled="false" level="中危风险" enabled_by_default="false" />
+    <inspection_tool class="JdJDAndroidSafeAllowBackup" enabled="false" level="低危风险" enabled_by_default="false" />
+    <inspection_tool class="JdJDAndroidSafeCheckTrust" enabled="false" level="中危风险" enabled_by_default="false" />
+    <inspection_tool class="JdJDAndroidSafeCryptoLength" enabled="false" level="中危风险" enabled_by_default="false" />
+    <inspection_tool class="JdJDAndroidSafeDatabase" enabled="false" level="中危风险" enabled_by_default="false" />
+    <inspection_tool class="JdJDAndroidSafeDebuggable" enabled="false" level="低危风险" enabled_by_default="false" />
+    <inspection_tool class="JdJDAndroidSafeECBModule" enabled="false" level="中危风险" enabled_by_default="false" />
+    <inspection_tool class="JdJDAndroidSafePermission" enabled="false" level="低危风险" enabled_by_default="false" />
+    <inspection_tool class="JdJDAndroidSafeReadFile" enabled="false" level="中危风险" enabled_by_default="false" />
+    <inspection_tool class="JdJDAndroidSafeSharedPre" enabled="false" level="中危风险" enabled_by_default="false" />
+    <inspection_tool class="JdJDAndroidSafeWeakEncrypt" enabled="false" level="中危风险" enabled_by_default="false" />
+    <inspection_tool class="JdJDAndroidSafeWebviewError" enabled="false" level="中危风险" enabled_by_default="false" />
+    <inspection_tool class="JdJDAndroidSavePasswd" enabled="false" level="低危风险" enabled_by_default="false" />
+    <inspection_tool class="JdJDAndroidWebviewFileAccess" enabled="false" level="低危风险" enabled_by_default="false" />
+    <inspection_tool class="JdJDSafeDruid" enabled="false" level="中危风险" enabled_by_default="false" />
+    <inspection_tool class="JdJDSafeFastJson" enabled="false" level="中危风险" enabled_by_default="false" />
+    <inspection_tool class="JdJDSafeHessianInput" enabled="false" level="中危风险" enabled_by_default="false" />
+    <inspection_tool class="JdJDSafeJavaObject" enabled="false" level="中危风险" enabled_by_default="false" />
+    <inspection_tool class="JdJDSafeSqlInjectJava" enabled="false" level="高危风险" enabled_by_default="false" />
+    <inspection_tool class="JdJDSafeSqlInjectXML" enabled="false" level="高危风险" enabled_by_default="false" />
+    <inspection_tool class="JdJDStrutsDev" enabled="false" level="中危风险" enabled_by_default="false" />
+    <inspection_tool class="JdJDXXE" enabled="false" level="中危风险" enabled_by_default="false" />
+  </profile>
+</component>
