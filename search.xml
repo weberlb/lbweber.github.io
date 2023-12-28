@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Android代码折叠问题</title>
+    <url>/2023/12/27/Android%E4%BB%A3%E7%A0%81%E6%8A%98%E5%8F%A0%E9%97%AE%E9%A2%98/</url>
+    <content><![CDATA[<p>当Android Studio aar或者jar包的class文件时，有时会出现 &#x2F;* compiled code *&#x2F;<br>因为Android Studio在初始化的时候会默认自带反编译插件，但是在有的因为安装大意，</p>
+<span id="more"></span>
+<p>在初始化的时候没有勾选上反编译插件，从而导致不能正常的反编译，<br>这时候看到的代码智能显示函数名称，函数体内部的实现显示的是&#x2F;compiled code&#x2F;。</p>
+<p>这个时候可以通过终重新勾选的方式来解决<br><strong>方法</strong><br>打开Android Studio，Android Studio-&gt;Settings-&gt;Plugins，<br>在installed的插件中搜索Java Bytecode Decompiler，勾选上后点击右下角的apply，然后再重启IDEA即可。</p>
+<p>小贴士:<br>禁用掉自己下载的编译插件<br>禁用掉Java Decompiler Intellij Plugin，重启Android Studio后反编译成功</p>
+]]></content>
+      <categories>
+        <category>技术文章</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>如何过的爽-夺回选择权</title>
+    <url>/2023/12/25/hello-world/</url>
+    <content><![CDATA[<p>嗨，大家好！</p>
+<p>今天我想和你们聊一个很重要的话题：夺回选择权。你有没有过不得不加班，不得不做某事的经历呢？其实我们都有过，但是要记住，不管情况有多糟，我们都有权利夺回属于自己的选择权！</p>
+<span id="more"></span>
+<p>首先，选择不仅是行为，更是态度。了解为什么你做出这个选择，是你成长和提升价值观的一部分。</p>
+<p>其次，即使你觉得选项很差，也要知道生活的道路是充满可能性的。别被困在所谓的差劲选择中，而是努力发现其中的机会。</p>
+<p>如果我们将不得不，换成 我选择……因为我想要……是不是就舒服了点。</p>
+<p>最后，夺回选择权的甜点在于，即使结果不尽如人意，我们仍能感觉到舒适。因为这是我们拥有了决策的主动权，能够接受并成长于选择带来的一切。</p>
+<p>所以，让我们努力夺回选择权吧，勇敢面对有限的选项，成为一个能够勇敢接受选择结果的独立个体。记得，你有权利做出你自己的选择！谢谢收看！</p>
+]]></content>
+      <categories>
+        <category>自我发展</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>心理舒适区-为什么有时候不舒服</title>
+    <url>/2023/12/26/%E5%BF%83%E7%90%86%E8%88%92%E9%80%82%E5%8C%BA-%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E6%97%B6%E5%80%99%E4%B8%8D%E8%88%92%E6%9C%8D/</url>
+    <content><![CDATA[<p>心理舒适区不舒服的时候要做出改变<br>坡道：如果心里舒适区一直让我们很舒服该多好，但是有时候我们会感觉很不舒服。</p>
+<p>1、心里舒适区是一种心里状态，该状态下我们本身会认为周边的环境和实物是我们可以控制的，这会使我们经理低水平的压力和焦虑，可实现稳定的身心水平。</p>
+<span id="more"></span>
+<p>2、当别人指责我们的时候，我们会有不同的多种反应，比如自卑，我又做错了事情，又或者生气，都是他的错。<br>我们用习惯的方式来处理这种情形，这是心里舒适区的一种应用和表现场景。<br>但是这种状态下 内心其实并不舒服。<br>3、当我们处于这种心里舒适区的状态下，其实我们自身并不是很舒服，这就需要我们使用一定的技巧走出心里舒适区。</p>
+<p>如果想要舒服就需要一定的技巧，这个技巧就是做出一定的转变。</p>
+]]></content>
+      <categories>
+        <category>自我发展</category>
+      </categories>
+  </entry>
+</search>
