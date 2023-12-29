@@ -1,8 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Android Studio aar显示compiled code</title>
+    <url>/2023/6272503f8e5f/</url>
+    <content><![CDATA[<p>当Android Studio aar或者jar包的class文件时，有时会出现 &#x2F;* compiled code *&#x2F;<br>因为Android Studio在初始化的时候会默认自带反编译插件，但是在有的因为安装大意，</p>
+<span id="more"></span>
+<p>在初始化的时候没有勾选上反编译插件，从而导致不能正常的反编译，<br>这时候看到的代码智能显示函数名称，函数体内部的实现显示的是&#x2F;compiled code&#x2F;。</p>
+<p>这个时候可以通过终重新勾选的方式来解决<br><strong>方法</strong><br>打开Android Studio，Android Studio-&gt;Settings-&gt;Plugins，<br>在installed的插件中搜索Java Bytecode Decompiler，勾选上后点击右下角的apply，然后再重启IDEA即可。</p>
+<p>小贴士:<br>禁用掉自己下载的编译插件<br>禁用掉Java Decompiler Intellij Plugin，重启Android Studio后反编译成功</p>
+]]></content>
+      <categories>
+        <category>技术文章</category>
+      </categories>
+  </entry>
+  <entry>
     <title>如何过的开心-夺回选择权</title>
-    <url>/how-to-happy-choose/</url>
+    <url>/2023/7bbbd39aea3e/</url>
     <content><![CDATA[<p>嗨，大家好！</p>
 <p>今天我想和你们聊一个很重要的话题：夺回选择权。你有没有过不得不加班，不得不做某事的经历呢？其实我们都有过，但是要记住，不管情况有多糟，我们都有权利夺回属于自己的选择权！</p>
 <span id="more"></span>
@@ -18,7 +31,7 @@
   </entry>
   <entry>
     <title>心理舒适区-为什么有时候不舒服</title>
-    <url>/why-not-comfortable/</url>
+    <url>/2023/2e29d3e5277e/</url>
     <content><![CDATA[<p>心理舒适区不舒服的时候要做出改变<br>坡道：如果心里舒适区一直让我们很舒服该多好，但是有时候我们会感觉很不舒服。</p>
 <p>1、心里舒适区是一种心里状态，该状态下我们本身会认为周边的环境和实物是我们可以控制的，这会使我们经理低水平的压力和焦虑，可实现稳定的身心水平。</p>
 <span id="more"></span>
@@ -30,21 +43,8 @@
       </categories>
   </entry>
   <entry>
-    <title>Android Studio aar显示compiled code</title>
-    <url>/android-studio-compiled-code/</url>
-    <content><![CDATA[<p>当Android Studio aar或者jar包的class文件时，有时会出现 &#x2F;* compiled code *&#x2F;<br>因为Android Studio在初始化的时候会默认自带反编译插件，但是在有的因为安装大意，</p>
-<span id="more"></span>
-<p>在初始化的时候没有勾选上反编译插件，从而导致不能正常的反编译，<br>这时候看到的代码智能显示函数名称，函数体内部的实现显示的是&#x2F;compiled code&#x2F;。</p>
-<p>这个时候可以通过终重新勾选的方式来解决<br><strong>方法</strong><br>打开Android Studio，Android Studio-&gt;Settings-&gt;Plugins，<br>在installed的插件中搜索Java Bytecode Decompiler，勾选上后点击右下角的apply，然后再重启IDEA即可。</p>
-<p>小贴士:<br>禁用掉自己下载的编译插件<br>禁用掉Java Decompiler Intellij Plugin，重启Android Studio后反编译成功</p>
-]]></content>
-      <categories>
-        <category>技术文章</category>
-      </categories>
-  </entry>
-  <entry>
     <title>非暴力沟通最佳实践方法</title>
-    <url>/nonviolent-communication-practice/</url>
+    <url>/2023/2521e06fdc5e/</url>
     <content><![CDATA[<p>非暴力沟通的实践对于建立健康的人际关系和解决问题至关重要。以下是一些建议：</p>
 <p><strong>一、目标：</strong></p>
 <ol>
