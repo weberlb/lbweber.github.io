@@ -1,7 +1,10 @@
 ---
 title: 如何过的开心-夺回选择权
+link: how-to-happy-choose
+
 categories:
-- 自我发展
+  - 自我发展
+abbrlink: 22133
 ---
 嗨，大家好！
 
