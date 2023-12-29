@@ -1,19 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Android Studio aar显示compiled code</title>
-    <url>/2023/12/27/Android%E4%BB%A3%E7%A0%81%E6%8A%98%E5%8F%A0%E9%97%AE%E9%A2%98/</url>
-    <content><![CDATA[<p>当Android Studio aar或者jar包的class文件时，有时会出现 &#x2F;* compiled code *&#x2F;<br>因为Android Studio在初始化的时候会默认自带反编译插件，但是在有的因为安装大意，</p>
-<span id="more"></span>
-<p>在初始化的时候没有勾选上反编译插件，从而导致不能正常的反编译，<br>这时候看到的代码智能显示函数名称，函数体内部的实现显示的是&#x2F;compiled code&#x2F;。</p>
-<p>这个时候可以通过终重新勾选的方式来解决<br><strong>方法</strong><br>打开Android Studio，Android Studio-&gt;Settings-&gt;Plugins，<br>在installed的插件中搜索Java Bytecode Decompiler，勾选上后点击右下角的apply，然后再重启IDEA即可。</p>
-<p>小贴士:<br>禁用掉自己下载的编译插件<br>禁用掉Java Decompiler Intellij Plugin，重启Android Studio后反编译成功</p>
-]]></content>
-      <categories>
-        <category>技术文章</category>
-      </categories>
-  </entry>
-  <entry>
     <title>如何过的爽-夺回选择权</title>
     <url>/2023/12/25/hello-world/</url>
     <content><![CDATA[<p>嗨，大家好！</p>
@@ -30,6 +17,19 @@
       </categories>
   </entry>
   <entry>
+    <title>Android Studio aar显示compiled code</title>
+    <url>/2023/12/27/Android%E4%BB%A3%E7%A0%81%E6%8A%98%E5%8F%A0%E9%97%AE%E9%A2%98/</url>
+    <content><![CDATA[<p>当Android Studio aar或者jar包的class文件时，有时会出现 &#x2F;* compiled code *&#x2F;<br>因为Android Studio在初始化的时候会默认自带反编译插件，但是在有的因为安装大意，</p>
+<span id="more"></span>
+<p>在初始化的时候没有勾选上反编译插件，从而导致不能正常的反编译，<br>这时候看到的代码智能显示函数名称，函数体内部的实现显示的是&#x2F;compiled code&#x2F;。</p>
+<p>这个时候可以通过终重新勾选的方式来解决<br><strong>方法</strong><br>打开Android Studio，Android Studio-&gt;Settings-&gt;Plugins，<br>在installed的插件中搜索Java Bytecode Decompiler，勾选上后点击右下角的apply，然后再重启IDEA即可。</p>
+<p>小贴士:<br>禁用掉自己下载的编译插件<br>禁用掉Java Decompiler Intellij Plugin，重启Android Studio后反编译成功</p>
+]]></content>
+      <categories>
+        <category>技术文章</category>
+      </categories>
+  </entry>
+  <entry>
     <title>心理舒适区-为什么有时候不舒服</title>
     <url>/2023/12/26/%E5%BF%83%E7%90%86%E8%88%92%E9%80%82%E5%8C%BA-%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E6%97%B6%E5%80%99%E4%B8%8D%E8%88%92%E6%9C%8D/</url>
     <content><![CDATA[<p>心理舒适区不舒服的时候要做出改变<br>坡道：如果心里舒适区一直让我们很舒服该多好，但是有时候我们会感觉很不舒服。</p>
@@ -37,6 +37,49 @@
 <span id="more"></span>
 <p>2、当别人指责我们的时候，我们会有不同的多种反应，比如自卑，我又做错了事情，又或者生气，都是他的错。<br>我们用习惯的方式来处理这种情形，这是心里舒适区的一种应用和表现场景。<br>但是这种状态下 内心其实并不舒服。<br>3、当我们处于这种心里舒适区的状态下，其实我们自身并不是很舒服，这就需要我们使用一定的技巧走出心里舒适区。</p>
 <p>如果想要舒服就需要一定的技巧，这个技巧就是做出一定的转变。</p>
+]]></content>
+      <categories>
+        <category>自我发展</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>非暴力沟通实践</title>
+    <url>/2023/12/28/%E9%9D%9E%E6%9A%B4%E5%8A%9B%E6%B2%9F%E9%80%9A%E5%AE%9E%E8%B7%B5/</url>
+    <content><![CDATA[<p>非暴力沟通的实践对于建立健康的人际关系和解决问题至关重要。以下是一些建议：</p>
+<p><strong>一、目标：</strong></p>
+<ol>
+<li><p><strong>明确沟通目标：</strong><br>在沟通前，思考清楚你的目标，是解决人际关系问题还是解决具体事务。明确目标有助于使沟通更有针对性和事半功倍。</p>
+</li>
+<li><p><strong>沟通的本质是满足需求：</strong> 非暴力沟通强调满足个体的需求。在表达自己的观点和情感时，关注的焦点应是满足内心的需求，而不是采取攻击性的方式。</p>
+<span id="more"></span></li>
+<li><p><strong>什么是暴力沟通：</strong><br>暴力沟通包括道德评判、批评、指责、比较、贴标签和过度夸奖。避免使用这些负面的沟通方式，以免伤害他人或破坏关系。</p>
+</li>
+<li><p><strong>非暴力沟通的价值：</strong><br>非暴力沟通有助于更好地爱自己、面对别人的暴力沟通，以及对别人进行非暴力沟通。它创造了一种尊重和理解的沟通氛围，有助于建立健康的人际关系。</p>
+</li>
+</ol>
+<p><strong>二、沟通方法：</strong></p>
+<ul>
+<li><p><strong>表述事实</strong></p>
+</li>
+<li><p><strong>表述感受</strong></p>
+</li>
+<li><p><strong>表述你的需求</strong></p>
+</li>
+<li><p><strong>需要对方具体做什么来满足你的需要</strong></p>
+</li>
+</ul>
+<p><strong>三、生活实践：</strong></p>
+<p><strong>如何面对别人的暴力沟通：</strong></p>
+<ul>
+<li><strong>青铜级别：</strong> 指责自己</li>
+<li><strong>白银级别：</strong> 指责他人</li>
+<li><strong>黄金级别：</strong> 转化自己的需求与感受</li>
+<li><strong>钻石级别：</strong> 描述别人的需求和感受</li>
+</ul>
+<p><strong>我们的情感成长路线：</strong><br>从情感的奴隶到情感的主人是一个逐步的过程。学会面对挫折、怀疑和批评，逐渐建立自己情感的主导权。</p>
+<p><strong>如何面对内在的暴力沟通：</strong><br>爱自己，面对自己的不完美，当自我指责时，思考自己的需求是否得到满足。不对自己进行暴力沟通，宽恕自己的错误，不为金钱、夸赞或避免负面情绪而做事，而是追求真实的需求和兴趣。</p>
+<p><strong>四：总结</strong></p>
+<p>非暴力沟通是一项需要实践和不断尝试的技能，让自身形成肌肉记忆，但它能够有效地促进良好的沟通和关系。</p>
 ]]></content>
       <categories>
         <category>自我发展</category>
