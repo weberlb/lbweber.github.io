@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://weberlb.github.io/2024/b3a32496f5c4/</loc>
+    
+    <lastmod>2024-03-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://weberlb.github.io/2024/9a4adc32ae0d/</loc>
+    
+    <lastmod>2024-01-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://weberlb.github.io/2024/6326e47452c9/</loc>
     
     <lastmod>2024-01-03</lastmod>
@@ -76,7 +94,7 @@
 
   <url>
     <loc>https://weberlb.github.io/</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-03-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -86,14 +104,14 @@
   
   <url>
     <loc>https://weberlb.github.io/categories/%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0/</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-03-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://weberlb.github.io/categories/%E8%87%AA%E6%88%91%E5%8F%91%E5%B1%95/</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-03-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
